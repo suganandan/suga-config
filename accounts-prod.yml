@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank accounts related Prod APIs "
   contactDetails:
     name: "Suganandan - Prod Lead"
-    email: "51327627fa7db81ce944eebe1bd80261743fe145caf4a100d1a43b37e56f0b24ffafd89741199762af3e755d1a0717b7"
+    email: "{cipher}51327627fa7db81ce944eebe1bd80261743fe145caf4a100d1a43b37e56f0b24ffafd89741199762af3e755d1a0717b7"
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345
