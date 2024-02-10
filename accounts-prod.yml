@@ -1,0 +1,11 @@
+build:
+  version: "1.0"  
+  
+accounts:
+  message: "Welcome to Bank accounts related Prod APIs "
+  contactDetails:
+    name: "Suganandan - Prod Lead"
+    email: "sugan.prod@bank.com"
+  onCallSupport:
+    - (777) 555-1234
+    - (777) 523-1345
